@@ -14,6 +14,8 @@ Visual Components Premium 4.3
 
 ## Program
 ```python
+Developed by: S LALIT CHANDRAN
+RegisterNumber: 212223240077
 from vcScript import *
 from vcHelpers.Robot2 import *
 def OnRun():
